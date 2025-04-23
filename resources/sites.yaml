@@ -1,0 +1,8 @@
+default:
+  name: '{{ config:app:name }}'
+  url: '{{ config:app:url }}'
+  locale: en_US
+web2:
+  name: Web2
+  url: web2.test
+  locale: en_US
